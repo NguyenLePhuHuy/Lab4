@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BLL/BLL.csproj" Id="54715a27-7603-4f75-84b0-163ed42fd83a" />
+  <Project Path="DAL/DAL.csproj" Id="7950b842-781b-4605-ac7d-b6374bc92b04" />
+  <Project Path="StudentManagementWeb/StudentManagementWeb.csproj" Id="41bfb026-ecba-475a-9270-894fdca55280" />
+</Solution>

@@ -1,0 +1,36 @@
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\bin\Debug\BLL.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\bin\Debug\BLL.pdb
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\bin\Debug\DAL.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\bin\Debug\EntityFramework.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\bin\Debug\DAL.pdb
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\bin\Debug\DAL.dll.config
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\bin\Debug\EntityFramework.xml
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\obj\Debug\BLL.csproj.Up2Date
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\obj\Debug\BLL.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\BLL\obj\Debug\BLL.pdb
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\bin\Debug\BLL.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\bin\Debug\BLL.pdb
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\bin\Debug\DAL.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\bin\Debug\EntityFramework.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\bin\Debug\DAL.pdb
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\bin\Debug\DAL.dll.config
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\bin\Debug\EntityFramework.xml
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\obj\Debug\BLL.csproj.Up2Date
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\obj\Debug\BLL.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\BLL\obj\Debug\BLL.pdb
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\bin\Debug\BLL.dll
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\bin\Debug\BLL.pdb
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\bin\Debug\DAL.dll
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\bin\Debug\EntityFramework.dll
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\bin\Debug\DAL.pdb
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\bin\Debug\DAL.dll.config
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\bin\Debug\EntityFramework.xml
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\obj\Debug\BLL.dll
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\BLL\obj\Debug\BLL.pdb

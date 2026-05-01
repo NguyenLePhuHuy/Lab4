@@ -1,0 +1,34 @@
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\bin\Debug\DAL.dll.config
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\bin\Debug\DAL.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\bin\Debug\DAL.pdb
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\bin\Debug\EntityFramework.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\bin\Debug\EntityFramework.xml
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\obj\Debug\DAL.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB3\StudentManagementApp\DAL\obj\Debug\DAL.pdb
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\bin\Debug\DAL.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\bin\Debug\DAL.pdb
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\bin\Debug\EntityFramework.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\bin\Debug\EntityFramework.xml
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\obj\Debug\DAL.dll
+F:\HK2 25-26\Công nghệ phần mềm\LAB4\StudentManagementApp\DAL\obj\Debug\DAL.pdb
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\bin\Debug\DAL.dll
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\bin\Debug\DAL.pdb
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\obj\Debug\DAL.dll
+C:\Users\PHU HUY\Downloads\Lab4 (1)\524H0034_HuynhNhatThien_Lab4\524H0034_HuynhNhatThien\StudentManagementApp\DAL\obj\Debug\DAL.pdb
